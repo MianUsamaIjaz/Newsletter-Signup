@@ -1,4 +1,4 @@
-# Newsletter Signup
+# 📰 Newsletter Signup
 
 The Newsletter Signup project is a web application that allows users to sign up for a newsletter or mailing list. It provides a simple interface for collecting user information and subscribing them to receive regular updates or newsletters.
 
